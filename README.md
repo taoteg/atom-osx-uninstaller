@@ -9,7 +9,7 @@ What is it?
 ## How to fully uninstall Atom from OS X
 
 1) Backup and configs you want to save (if doing a fresh reinstall for example)
-
+```
 $ cd ~/.atom
 $ mkdir ../atom_configs_backup
 $ cp *.json ../atom_configs_backup
@@ -18,7 +18,7 @@ $ cp *.coffee ../atom_configs_backup
 $ cp *.less ../atom_configs_backup
 $ apm list --installed --bare > packages.list
 $ cp packages.list ../atom_configs_backup
-
+```
 
 2) Delete the following files and folders from your system:
 ```
