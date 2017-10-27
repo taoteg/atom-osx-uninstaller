@@ -3,8 +3,8 @@
 What is it?
 
 - Script for completely uninstalling atom.io from OS X. 
-- Script for archiving atom configs.
-- Script for restoring configs after fresh installation.
+- Script for archiving atom.io configs.
+- Script for restoring atom.iuo configs after fresh installation.
 
 ## How to fully uninstall Atom from OS X
 
@@ -34,6 +34,7 @@ $ cp packages.list ../atom_configs_backup
  ~/Library/Caches/com.github.atom
  ~/Library/Caches/Atom
 ```
+
 NOTE: You will only have ShipIt if you used the Atom > Install Shell Commands menu item.
 
 _If you are only removing Atom, you are now done._
@@ -58,6 +59,7 @@ Once completed, run Atom and you should be restored to your previous setup.
 
 NOTE: One of the major issues with atom is packages that bring the system down. 
 Be careful on reinstalling packages.
- 
+
+
 
  
