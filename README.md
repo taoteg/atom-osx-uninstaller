@@ -2,13 +2,13 @@
 
 What is it?
 
+- Script for archiving atom.io configs. (pending)
 - Script for completely uninstalling atom.io from OS X. 
-- Script for archiving atom.io configs.
-- Script for restoring atom.iuo configs after fresh installation.
+- Script for restoring atom.io configs after fresh installation. (pending)
 
 ## How to fully uninstall Atom from OS X
 
-1) Backup and configs you want to save (if doing a fresh reinstall for example)
+1) Backup and configs you want to save (pending)
 ```
 $ cd ~/.atom
 $ mkdir ../atom_configs_backup
@@ -44,11 +44,12 @@ _If you are only removing Atom, you are now done._
 - download atom app from web: https://atom.io/
 - unzip/untar the archive
 - drag the Atom.app file into /Applications/
-
-4) Launch atom.
+- launch atom.
 
 If you simply want a clean reinstall, you are done.
-If you want to restore your previosu packages and configs:
+
+4) Restore configs from previous install. (pending)
+
 ```
 $ cd ~/.atom
 $ cp ../atom_configs_backup/packages.list .
