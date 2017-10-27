@@ -20,6 +20,19 @@ $ apm list --installed --bare > packages.list
 $ cp packages.list ../atom_configs_backup
 ```
 
+The list of actual files is something akin to this, depending on what you have installed:
+
+- config.cson
+- github.cson
+- init.coffee
+- keymap.cson
+- kite-config.json
+- package-deps-state.json
+- projects.cson
+- snippets.cson
+- styles.less
+- packages.list
+
 2) Delete the following files and folders from your system:
 ```
  /Applications/Atom.app
