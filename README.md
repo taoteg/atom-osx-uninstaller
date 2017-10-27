@@ -35,7 +35,7 @@ $ cp packages.list ../atom_configs_backup
  ~/Library/Caches/Atom
 ```
 
-NOTE: You will only have ShipIt if you used the Atom > Install Shell Commands menu item.
+NOTE: You will only have the ShipIt locations if you used the Atom > Install Shell Commands menu item.
 
 _If you are only removing Atom, you are now done._
 
@@ -46,7 +46,7 @@ _If you are only removing Atom, you are now done._
 - drag the Atom.app file into /Applications/
 - launch atom.
 
-If you simply want a clean reinstall, you are done.
+_If you simply want a clean reinstall, you are done._
 
 4) Restore configs from previous install. (pending)
 
